@@ -1,5 +1,19 @@
-.Rproj.user
+# Local R / RStudio state
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
-Output/Data/
+
+# Local datasets and generated data / model artifacts
+/Data/
+/Output/Data/
+*.csv
+*.tsv
+*.rdata
+*.Rdata
+*.RData
+*.rds
+*.Rds
+
+# macOS metadata
+.DS_Store
