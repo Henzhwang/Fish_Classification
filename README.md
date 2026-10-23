@@ -31,10 +31,11 @@ Output/
   HTML/                          Previously rendered analysis reports
   PDF/                           Previously rendered exploration reports
 Presentation/
-  Fish_Classification_Pre.pdf    Project presentation
+  5-min Presentation/            Full presentation, slides, images, and video
+  1-min Presentation/            Summary slide (PDF and Keynote)
 ```
 
-Start with the [project presentation](Presentation/Fish_Classification_Pre.pdf), then browse the notebooks or download the HTML reports in [Output/HTML](Output/HTML) and open them in a browser.
+Start with the [project presentation](Presentation/5-min%20Presentation/Fish_Classification_Pre.pdf), then browse the notebooks or download the HTML reports in [Output/HTML](Output/HTML) and open them in a browser.
 
 ## Data and model artifacts
 
